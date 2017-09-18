@@ -5,7 +5,7 @@ using System.Text;
 
 namespace CommonProject
 {
-    public class Class1
+    public class CommonClass
     {        
         // DEV branch. Line must disapear in DEV branch
     }
