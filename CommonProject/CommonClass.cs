@@ -7,6 +7,6 @@ namespace CommonProject
 {
     public class Class1
     {        
-        // DEV branch. Line must disapear
+        // DEV branch. Line must disapear in DEV branch
     }
 }
