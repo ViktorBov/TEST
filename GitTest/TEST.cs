@@ -5,7 +5,7 @@ using System.Text;
 
 namespace GitTest
 {
-    class Program
+    class TEST
     {
         static void Main(string[] args)
         {
