@@ -11,6 +11,7 @@ namespace GitTest
         {
             Console.WriteLine("Changed project in TEST_2");
             Console.WriteLine("Working in DEV branch");
+            Console.WriteLine("Changed project in TEST_2 3:00 PM");
         }
     }
 }
