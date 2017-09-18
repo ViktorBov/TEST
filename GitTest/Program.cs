@@ -9,7 +9,7 @@ namespace GitTest
     {
         static void Main(string[] args)
         {
-            // Below are specific changes for DEV branch. They must STAY HERE
+            //DEV branch. They must STAY HERE
         }
     }
 }
