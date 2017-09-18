@@ -5,7 +5,7 @@ using System.Text;
 
 namespace CommonProject
 {
-    public class Class1
+    public class CommonClass
     {
         // PWB branch. Line must Stay in both projects
     }
