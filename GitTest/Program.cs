@@ -10,6 +10,7 @@ namespace GitTest
         static void Main(string[] args)
         {
             Console.WriteLine("Changed project in TEST_2");
+            Console.WriteLine("Working in DEV branch");
         }
     }
 }
