@@ -6,7 +6,7 @@ using System.Text;
 namespace CommonProject
 {
     public class CommonClass
-    {        
-        // DEV branch. Line must disapear in DEV branch
+    {
+        // PWB branch. Line must Stay in both projects
     }
 }
