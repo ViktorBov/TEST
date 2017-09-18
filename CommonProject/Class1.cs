@@ -8,6 +8,5 @@ namespace CommonProject
     public class Class1
     {
         // PWB branch. Line must Stay in both projects
-
     }
 }
