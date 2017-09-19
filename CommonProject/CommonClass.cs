@@ -7,6 +7,6 @@ namespace CommonProject
 {
     public class CommonClass
     {
-        // DEV branch. Line must be removed from all projects
+        // DEV-DEV branch. Line must be removed from all projects
     }
 }
