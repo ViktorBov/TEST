@@ -7,6 +7,6 @@ namespace CommonProject
 {
     public class CommonClass
     {
-        // PWB-PWB branch. Line must Stay in both projects
+        // DEV-DEV branch. Line must be removed from all projects
     }
 }
