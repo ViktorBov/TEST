@@ -9,7 +9,7 @@ namespace GitTest
     {
         static void Main(string[] args)
         {
-            // PWB branch. Line must Stay only in PWB project
+            // PWB-PWB branch. Line must Stay only in PWB project
         }
     }
 }
